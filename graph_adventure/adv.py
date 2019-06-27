@@ -4,7 +4,7 @@ from world import World
 
 import random
 
-# Load world
+# Load world.
 world = World()
 
 # You may uncomment the smaller graphs for development and testing purposes.
